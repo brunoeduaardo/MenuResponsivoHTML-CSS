@@ -22,7 +22,6 @@ header label{
     padding: 5px 10px;
     width: 20px;
     font-size: 25px;
-    border-right: 1px solid #efefef;
     display: none;
 
 }
@@ -47,7 +46,6 @@ header label:hover{
     text-decoration: none;
     padding: 15px 20px;
     display: block;
-    border-right: 1px solid #efefef;
 
 }
 
@@ -71,10 +69,6 @@ header label:hover{
 
     }
 
-    .menu li a{
-        border-top: 1px solid #efefef;
-
-    }
 
     #btn-menu:checked ~ .menu ul{
         margin-left: 0;
